@@ -9,9 +9,11 @@ body {
   }
   
   .container {
+    position: relative;
     display: flex;
     flex-direction: row;
     gap: 40px;
+    z-index: 1;
   }
   
   a {
@@ -34,4 +36,5 @@ img.top-right {
   width: auto; 
   height: 33vw;
   max-width: 50%;
+  z-index: 0;
 }
