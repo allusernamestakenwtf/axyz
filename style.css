@@ -41,6 +41,8 @@ img.top-right {
   user-drag: none;
   -webkit-user-drag: none;
 
+    }
+
 @media (max-width: 600px) {
   .container {
     flex-direction: row; /
@@ -60,5 +62,4 @@ img.top-right {
     height: 25vw;
     max-width: 50%;
   }
-}
 }
