@@ -28,8 +28,8 @@ body {
 
 img.top-right {
   position: fixed;
-  top: 20px;
-  right: 20px;
+  top: 0px;
+  right: 0px;
   width: 16.666vw; 
   height: auto;
   max-width: 100%;
