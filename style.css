@@ -25,11 +25,12 @@ body {
     transform: scale(1.1);
     color: #FFFFFF;
   }
+
 img.top-right {
   position: fixed;
   top: 20px;
   right: 20px;
-  width: 16.666vw; /* 1/6 of the viewport width */
+  width: 16.666vw; 
   height: auto;
-  max-width: 100%; /* Prevents it from overflowing */
+  max-width: 100%;
 }
