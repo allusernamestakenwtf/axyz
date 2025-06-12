@@ -30,7 +30,7 @@ img.top-right {
   position: fixed;
   top: 0;
   right: 0;
-  width: 33vw; 
-  height: auto;
+  width: auto; 
+  height: 33vw;
   max-width: 100%;
 }
