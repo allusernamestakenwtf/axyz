@@ -40,26 +40,4 @@ img.top-right {
   pointer-events: none;
   user-drag: none;
   -webkit-user-drag: none;
-
-    }
-
-@media (max-width: 600px) {
-  .container {
-    flex-direction: row; /
-    gap: 20px;
-    bottom: 20px;
-    left: 20px;
-    right: 20px;
-    position: fixed;
-    width: auto;
-  }
-
-  a {
-    font-size: 2rem; 
-  }
-
-  img.top-right {
-    height: 25vw;
-    max-width: 50%;
-  }
 }
