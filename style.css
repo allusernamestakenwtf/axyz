@@ -12,6 +12,7 @@ body {
     display: flex;
     flex-direction: row;
     gap: 40px;
+    z-index: 1;
   }
   
   a {
@@ -33,4 +34,5 @@ img.top-right {
   width: auto; 
   height: 44vw;
   max-width: 100%;
+  z-index: 0;
 }
